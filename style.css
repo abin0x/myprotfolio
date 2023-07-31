@@ -1,0 +1,49 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.pic {
+
+    margin-top: -100px;
+
+}
+
+
+
+.pic {
+    object-fit: cover;
+}
+
+section {
+    background-color: rgb(199, 236, 236);
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 400;
+}
+
+.top-banner {
+    background-image: url(images/developer.png);
+    background-repeat: no-repeat;
+
+
+}
